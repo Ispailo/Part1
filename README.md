@@ -14,3 +14,5 @@ Pour la réalisation j'ai suivi les étapes citer ci-dessous:
   * Rédaction du Dockerfile
   * Utilisation d'un répertoire pour travailler avec des images
   
+![image](https://user-images.githubusercontent.com/80095967/150679030-ced42b86-5ef3-487d-93e4-d1f38e8aa9a4.png)
+![image](https://user-images.githubusercontent.com/80095967/150679053-c7d347f5-5b22-4776-a260-74b999ee937e.png)
